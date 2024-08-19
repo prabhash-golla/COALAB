@@ -1,0 +1,2 @@
+FILES without underscore(eg:- bit8adder) are module FILES
+FILES with underscore(eg:- bit8_adder) are testbench FILES
